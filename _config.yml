@@ -24,13 +24,13 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
+  ahmad:
     name: Ahmad Khasawneh
     display_name: Ahmad
-    avatar: 'assets/images/sal.png'
+    # avatar: 'assets/images/ahmad.png'
     email: ahmad.khasawneh@hotmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    web: https://ahmadkhasanweh.github.io/crispy-broccoli/
+    # twitter: https://twitter.com/wowthemesnet
     description: "Author of 5minscoding, a website to learn software engineering in 5mins blogs."
 
 # Social
